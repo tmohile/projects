@@ -2,6 +2,8 @@
 This repository shall contain IaC configuration files
 
 #This README file shall be used to track changes.
+28-APR-2025 12:35 - Moved projects/tofucconfig/gitlog to projects/gitlog.
+
 28-APR-2025 12:30 - Changed top level GIT reposiroty from tofuconfig to projects:
 projects
     └── tofuconfig
