@@ -1,5 +1,7 @@
 # README file in top level GIT managed repository, pwd: /opt/admin/projects/
 # This README file will track changes.
+21-MAY-2025 20:23 - Added host-monitor-bootstrap/uptime-kuma/docker-cmd - 'docker run -d --restart=always -p 3001:3001 -v uptime-kuma:/app/data --name uptime-kuma louislam/uptime-kuma:1'. restarted uptime-kuma from docker-compose.yml. old db was lost..
+
 21-MAY-2025 10:45 - Added host based folder 'host-monitor-bootstrap' for host monitor-bootstrap, 
 		    this host intended to handle stage1 monitoring and bootstrap of resources.
 		    Added 'host-monitor-bootstrap/uptime-kuma/docker-compose.yml' to start uptime-kuma docker, 
