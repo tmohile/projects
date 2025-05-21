@@ -1,0 +1,1 @@
+rsync -avz --delete /opt/admin/projects/host-monitor-bootstrap/ admin@192.168.46.242:/opt/admin/projects/
